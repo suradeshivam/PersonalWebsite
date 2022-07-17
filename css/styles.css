@@ -1,0 +1,165 @@
+body{
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  margin: 0;
+  background-color: #1A1A1D;
+}
+
+h1{
+  color: #86f7ee;
+  margin:50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+
+a{
+  color: #196e67;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+h2{
+  color: #FF9900;
+  margin-top:0;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  color: #FF9900;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border: dotted #502064 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-container{
+  background-color: #1A1A1D;
+  position: relative;
+  padding-top: 100px;
+}
+
+p{
+  line-height: 2;
+  color: #030303;
+}
+
+.middle-container{
+  background-color: #4E4E50;
+  padding-bottom:70px;
+  padding-top:70px;
+  position: relative;
+
+}
+
+.intro{
+  color: #7CFC00;
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-container{
+  padding-top: 50px;
+  background-color: #1A1A1D;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:400px;
+  bottom:300px;
+}
+
+.btn {
+  background: #3476d9;
+  background-image: linear-gradient(top, #3476d9, #24bdba);
+  background-image: linear-gradient(to bottom, #3476d9, #24bdba);
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #16ccbd;
+  background-image: linear-gradient(top, #16ccbd, #5fcfb9);
+  background-image: linear-gradient(to bottom, #16ccbd, #5fcfb9);
+  text-decoration: none;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto;
+  text-align: left;
+}
+
+.web-img{
+  width: 25%;
+  float: left;
+  margin: auto 30px auto auto;
+}
+
+.eat-img{
+  width: 25%;
+  float: right;
+  margin: auto auto auto 30px;
+}
+
+.profile-img{
+  width: 10%;
+}
+
+.contact-message{
+  color:#7CFC00;
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.text{
+  color:#7CFC00;
+}
+
+.copy{
+  color:#FFFFFF;
+}
+
+
+.contact-body{
+  background-color: powderblue;
+  margin-left: 10px;
+
+}
+
+.contact-hr{
+  width: 5%;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+}
+
+
+
+.contact-h3{
+  color: #f57842;
+
+}
+
+.luffy{
+  height: 300px;
+}
